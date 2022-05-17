@@ -1,4 +1,4 @@
-
+### LSMS-ISA Uganda Study
 
 You can use the [editor on GitHub](https://github.com/andreasalem/LSMS-ISA-Uganda-Study/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
