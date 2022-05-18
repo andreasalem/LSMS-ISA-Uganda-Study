@@ -1,5 +1,6 @@
 ### Online Appendix 
 <br /> 
+
 ### An investigation of household consumption structure in Uganda: Evidence from the LSMS-ISA
 
 You can use the [editor on GitHub](https://github.com/andreasalem/LSMS-ISA-Uganda-Study/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
