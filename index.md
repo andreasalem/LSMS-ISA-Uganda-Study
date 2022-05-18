@@ -3,7 +3,7 @@
 
 ### An investigation of household consumption structure in Uganda: Evidence from the LSMS-ISA
 
-This website serves as the online appendix to the Bachelor Thesis submitted by the undersigned and under the supervision of Prof. Ph.D. Charles Gottlieb in fulfillment of the requirements for the Bachelor of Arts in Economics from the Uninversity of St. Gallen. 
+In fulfillment of the requirements for the Bachelor of Arts in Economics from the Uninversity of St. Gallen, this website serves as the online appendix to the bachelor thesis submitted by the undersigned under the supervision of Prof. Ph.D. Charles Gottlieb.
 
 ### Markdown
 
