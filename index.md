@@ -3,9 +3,7 @@
 
 ### An investigation of household consumption structure in Uganda: Evidence from the LSMS-ISA
 
-You can use the [editor on GitHub](https://github.com/andreasalem/LSMS-ISA-Uganda-Study/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website serves as the online appendix to the Bachelor Thesis submitted by the undersigned and under the supervision of Prof. Ph.D. Charles Gottlieb in fulfillment of the requirements for the Bachelor of Arts in Economics from the Uninversity of St. Gallen. 
 
 ### Markdown
 
