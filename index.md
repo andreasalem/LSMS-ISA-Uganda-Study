@@ -16,15 +16,13 @@ This online appendix extends certain explanations and enrich the project with su
 1. Data connstruction files <br>
 
 
-2. Household consumption expendituree
+2. Household consumption expenditure <br>
 &nbsp;&nbsp;&nbsp;3.1 [Table 1](#theory3.1)
-&nbsp;&nbsp;&nbsp;3.2 
-&nbsp;&nbsp;&nbsp;3.3 
 
 <br>
 <br>
 
-<font size="5">1&nbsp;&nbsp; Data connstruction files</font> 
+<font size="5">1&nbsp;&nbsp; Data construction files</font> 
 
 The do files containing the R cose used ino this project is avaiable [here](https://drive.switch.ch/index.php/s/2vcp5npHib4q01Y) for download. The image below summarizes how each do file relates to Excel dataset that are created.  
   
