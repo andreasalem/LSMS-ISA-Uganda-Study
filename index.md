@@ -26,3 +26,12 @@ This online appendix extends certain explanations and enrich the project with su
 
 The do files containing the R cose used ino this project is avaiable [here](https://drive.switch.ch/index.php/s/2vcp5npHib4q01Y) for download. The image below summarizes how each do file relates to Excel dataset that are created.  
   
+
+
+<font size="5">2&nbsp;&nbsp; Household consumption expenditure</font> 
+
+**2.1** Fod beverages and tobacco
+
+**2.2** Non-durable and frequently purchased services
+
+**2.3** Semi-durable and durable goods and services
