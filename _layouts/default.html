@@ -22,13 +22,18 @@
 
        
          
-       
 	      
 	{% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">Andrea Salem</a>.</p>
+        <p>This project is maintained by <br> <a href="{{ site.github.owner_url }}">Andrea Salem</a>.</p>
         {% endif %}
         
-        
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+
+        </ul>
+        {% endif %}
+	      
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
