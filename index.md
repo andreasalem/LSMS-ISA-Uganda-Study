@@ -6,6 +6,8 @@
 In fulfillment of the requirements for the Bachelor of Arts in Economics from the Uninversity of St. Gallen, this website serves as the online appendix to the bachelor thesis submitted by the undersigned under the supervision of Prof. Ph.D. Charles Gottlieb.
 
 
+[Link to another page](./another-page.html).
+
 This online appendix extends certain explanations and enrich the project with supplemental material. 
 
 <br>
