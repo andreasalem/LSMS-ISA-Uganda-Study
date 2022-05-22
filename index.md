@@ -20,8 +20,8 @@ to extend specific explanations.
 1. Data connstruction files <br>
 
 
-2. Household consumption expenditure <br>
-&nbsp;&nbsp;&nbsp;3.1 [Table 1](#theory3.1)
+Capter 2  <br>
+&nbsp;&nbsp;&nbsp;Section 2.3: Household consumption expenditure [Table 1](#theory3.1)
 
 <br>
 <br>
