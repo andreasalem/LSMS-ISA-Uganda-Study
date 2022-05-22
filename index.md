@@ -8,7 +8,9 @@ In fulfillment of the requirements for the Bachelor of Arts in Economics from th
 
 [Link to another page](./another-page.html).
 
-This online appendix extends certain explanations and enrich the project with supplemental material. 
+This online appendix provides all relevant material to replicate findings of the research presented in the thesis. This are donwloadable in a .zip file.  
+This Appendix provides also an account of the data construction process and includes supplemental graphical representations
+to extend specific explanations.
 
 <br>
 <br>
