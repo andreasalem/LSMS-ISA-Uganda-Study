@@ -17,11 +17,20 @@ to extend specific explanations.
 
 <font size="5">Table of Contents</font>  <br>
 
-1. Data connstruction files <br>
+1. Data construction files <br>
 
 
-Capter 2  <br>
-&nbsp;&nbsp;&nbsp;Section 2.3: Household consumption expenditure [Table 1](#theory3.1)
+Capter 3  <br>
+&nbsp;&nbsp;&nbsp;Section 3.2: Household consumption expenditure [Table 1](#theory3.1): Household Questionnaire administered in the UNSPs
+&nbsp;&nbsp;&nbsp;Section 3.2.1: Household consumption expenditure: List of all items by category
+&nbsp;&nbsp;&nbsp;Section 3.3: Descriptive statistics of the dataset: Codebook with variables of roster dataset
+&nbsp;&nbsp;&nbsp;Section 3.3: Descriptive statistics of the dataset: CDF of age
+
+
+Capter 4  <br>
+&nbsp;&nbsp;&nbsp; Food sources by quintiles x2
+&nbsp;&nbsp;&nbsp; Pie charts of consumption basket (2010/11 and 2011/12) 
+&nbsp;&nbsp;&nbsp; Scatterplot of Engel curve. Explanations of strange result
 
 <br>
 <br>
