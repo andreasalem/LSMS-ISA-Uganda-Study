@@ -10,4 +10,4 @@ _yay_
 
      
      
-     ![Table final](/../pictures/screnshot_table.png)
+     ![Table final](./assets/table.png)
