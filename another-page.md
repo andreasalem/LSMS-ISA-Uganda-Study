@@ -10,4 +10,7 @@ _yay_
 
      
      
-     ![Table final](./assets/table.png)
+### Large image
+
+![Branching]([https://guides.github.com/activities/hello-world/branching.png)](https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/gh-pages/assets/css/img/table.png)
+
