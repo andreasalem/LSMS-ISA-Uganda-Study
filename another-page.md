@@ -12,5 +12,5 @@ _yay_
      
 ### Large image
 
-![Octocat](https://github.githubassets.com/img/table.png)
+![Octocat](https://github.githubassets.com/css/img/table.png)
 
