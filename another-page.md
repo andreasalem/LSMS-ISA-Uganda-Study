@@ -10,4 +10,4 @@ _yay_
 
      
      
-     ![Table final](/../LSMS-ISA-Uganda-Study/pictures/screnshot_table.png)
+     ![Table final](/../pictures/screnshot_table.png)
