@@ -3,12 +3,11 @@
 
 ### An investigation of household consumption structure in Uganda: Evidence from the LSMS-ISA
 
-In fulfillment of the requirements for the Bachelor of Arts in Economics from the Uninversity of St. Gallen, this website serves as the online appendix to the bachelor thesis submitted by the undersigned under the supervision of Prof. Ph.D. Charles Gottlieb.
 
 
 [Link to another page](./another-page.html).
 
-This online appendix provides all relevant material to replicate findings of the research presented in the thesis. This are donwloadable in a .zip file.  
+This online appendix provides all relevant material to replicate findings of the research presented in the thesis. The main body of the thesis which has been submitted can be retrieved at [this link](https://drive.switch.ch/index.php/s/qZwQSlvaiGKCEfi). The replication material is donwloadable in a .zip file on the left side of this web-page. 
 This Appendix provides also an account of the data construction process and includes supplemental graphical representations
 to extend specific explanations.
 
@@ -48,3 +47,7 @@ The do files containing the R cose used ino this project is avaiable [here](http
 **2.2 Non-durable and frequently purchased services**
 
 **2.3 Semi-durable and durable goods and services**
+
+
+In fulfillment of the requirements for the Bachelor of Arts in Economics from the Uninversity of St. Gallen, this website serves as the online appendix to the bachelor thesis submitted by the undersigned under the supervision of Prof. Ph.D. Charles Gottlieb.
+
