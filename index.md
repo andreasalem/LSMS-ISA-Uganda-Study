@@ -7,9 +7,9 @@
 
 [Link to another page](./another-page.html).
 
-This online appendix provides all relevant material to replicate findings of the research presented in the thesis. The main body of the thesis which has been submitted can be retrieved at [this link](https://drive.switch.ch/index.php/s/qZwQSlvaiGKCEfi). The replication material is donwloadable in a .zip file on the left side of this web-page. 
-This Appendix provides also an account of the data construction process and includes supplemental graphical representations
-to extend specific explanations.
+This online appendix provides all relevant material to replicate findings of the research presented in the thesis. This online appendix provides also a detailed account of the data construction process. <br>
+The main body of the thesis which has been submitted can be retrieved at [this link](https://drive.switch.ch/index.php/s/qZwQSlvaiGKCEfi). The replication material is donwloadable in a .zip file on the left side of this web-page. <br>
+
 
 <br>
 <br>
@@ -19,20 +19,6 @@ to extend specific explanations.
 1. Data construction files <br>
 
 
-Capter 3  <br>
-&nbsp;&nbsp;&nbsp;Section 3.2: Household consumption expenditure [Table 1](#theory3.1): Household Questionnaire administered in the UNSPs
-&nbsp;&nbsp;&nbsp;Section 3.2.1: Household consumption expenditure: List of all items by category
-&nbsp;&nbsp;&nbsp;Section 3.3: Descriptive statistics of the dataset: Codebook with variables of roster dataset
-&nbsp;&nbsp;&nbsp;Section 3.3: Descriptive statistics of the dataset: CDF of age
-
-
-Capter 4  <br>
-&nbsp;&nbsp;&nbsp; Food sources by quintiles x2
-&nbsp;&nbsp;&nbsp; Pie charts of consumption basket (2010/11 and 2011/12) 
-&nbsp;&nbsp;&nbsp; Scatterplot of Engel curve. Explanations of strange result
-
-<br>
-<br>
 
 <font size="5">1&nbsp;&nbsp; Data construction files</font> <br>
 
