@@ -9,3 +9,8 @@ GSEC1: household level characteristics
 GSEC2: individual level characteristics (demomgraphic)
 GSEC4: individual level characteristics (education)
 Information on household spending on food (GSEC15B), non-durable goods (GSEC15C) and durable goods (GSEC15D).
+
+A list of technologies used within the project:
+* [Technology name](https://example.com): Version 12.3 
+* [Technology name](https://example.com): Version 2.34
+* [Library name](https://example.com): Version 1234
