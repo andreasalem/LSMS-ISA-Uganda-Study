@@ -1,6 +1,6 @@
 This repository contains the raw data used in the study. The raw data stored in this repository is also available on the website of the World Bank's LSMS-ISA project:
 
-https://www.worldbank.org/en/programs/lsms/initiatives/lsms-ISA
+https://www.worldbank.org/en/programs/lsms/initiatives/lsms-ISA#8
 
 
 For each year, the files include: 
