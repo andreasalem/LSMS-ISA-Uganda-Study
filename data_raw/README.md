@@ -8,5 +8,6 @@ For each year, the files include:
 * GSEC1: household level characteristics
 * GSEC2: individual level characteristics (demomgraphic)
 * GSEC4: individual level characteristics (education)
-* Information on household spending on food (GSEC15B), non-durable goods (GSEC15C) and durable goods (GSEC15D).
-
+* GSEC15B: information on household spending on food 
+* GSEC15C: information on household spending on non-durable goods
+* GSEC15D: information on household spending on durable goods
