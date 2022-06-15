@@ -17,6 +17,6 @@ All information in these files has been collected by administering the Household
 For example, GSEC1 referes to Section 1 of the Household Questionnaire; GSEC15D to Section 15D. 
 The Household Questionnaires are available here:
 
-* <a href="data_raw/Household Questionnaires/09:10 hh_questionnaire.pdf">2009/10 HH Questionnaire</a>
+* <a href="Household Questionnaires/09:10 hh_questionnaire.pdf">2009/10 HH Questionnaire</a>
 * 2010/11 HH Questionnaire
 * 2011/12 HH Questionnaire
