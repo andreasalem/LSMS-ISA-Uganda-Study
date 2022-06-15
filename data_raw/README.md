@@ -11,3 +11,9 @@ For each year, the files include:
 * <strong>GSEC15B</strong>: information on household spending on food 
 * <strong>GSEC15C</strong>: information on household spending on non-durable goods
 * <strong>GSEC15D</strong>: information on household spending on durable goods
+
+
+All information in these files has been collected by administering the Household Questionnaire to survey respondents. 
+For example, GSEC1 referes to Section 1 of the Household Questionnaire; GSEC15D to Section 15D. 
+The Household Questionnaires are available here:
+
