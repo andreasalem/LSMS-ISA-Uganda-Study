@@ -1,8 +1,8 @@
 # Visual Representations
 All figures (Figure 3.1, 3.2, A.1-6) and Table 4.1 are generated using the following r files:
 
-* <a href="Figures.R">Figures.R</a>
 * <a href="Table 4.1 - Welch t-test of Difference in Means.R">Table 4.1 - Welch t-test of Difference in Means.R</a>
+* <a href="Figures.R">Figures.R</a>
 * <a href="Appendices.R">Appendices.R</a>
 
 
