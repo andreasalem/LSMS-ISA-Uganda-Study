@@ -5,11 +5,10 @@ This files executes the matching procedure that has led to a sample of study of 
 * <a href="do_sample_selection.R">do_sample_selection.R</a>
 
 
-Output of this file is the following .csv file: <a href="do_sample_selection.R">do_sample_selection.R</a>
+Output of this file is the following .csv file: <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/final_vector_sample.csv">final_vector_sample.csv</a>
 
 
-Output of this file is the following .csv file: [andreasalem/LSMS-ISA-Uganda-Study/data_clean](final_vector_sample.csv)
-
+Output of this file is the following .csv file: <a href="Table 4.1 - Welch t-test of Difference in Means.R">Table 4.1 - Welch t-test of Difference in Means.R</a>
 
 # Visual Representations
 All figures (Figure 3.1, 3.2, A.1-A.6) and Table 4.1 are generated using the following r files:
