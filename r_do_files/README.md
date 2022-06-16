@@ -4,9 +4,9 @@ This files executes the matching procedure that has led to a sample of study of 
 
 * <a href="do_sample_selection.R">do_sample_selection.R</a>
 
-```diff
-+Output of this file is the following .csv file: * <a href="do_sample_selection.R">do_sample_selection.R</a>
-```
+
+Output of this file is the following .csv file: * <a href="do_sample_selection.R">do_sample_selection.R</a>
+
 
 Output of this file is the following .csv file: * <a href="andreasalem/LSMS-ISA-Uganda-Study/data_clean/final_vector_sample.csv">final_vector_sample.csv</a>
 
