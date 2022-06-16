@@ -7,7 +7,6 @@ This files executes the matching procedure that has led to a sample of study of 
 
 &#8594; Output of this file is the following .csv file: <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/final_vector_sample.csv"><font color="01DF01">final_vector_sample.csv</font></a>
 
-<p style="padding: 10px; border: 2px solid red;">Output of this file is the following .csv file: <a href="Table 4.1 - Welch t-test of Difference in Means.R">Table 4.1 - Welch t-test of Difference in Means.R</a></p>
 
 
 # Visual Representations
