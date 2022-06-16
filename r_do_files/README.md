@@ -1,3 +1,16 @@
+
+# Sample Selection
+This files executes the matching procedure that has led to a sample of study of 2157 households: 
+
+* <a href="do_sample_selection.R">do_sample_selection.R</a>
+
+```diff
++ Output of this file is the following .csv file: * <a href="do_sample_selection.R">do_sample_selection.R</a>
+```
+
+Output of this file is the following .csv file: * <a href="do_sample_selection.R">do_sample_selection.R</a>
+
+
 # Visual Representations
 All figures (Figure 3.1, 3.2, A.1-A.6) and Table 4.1 are generated using the following r files:
 
