@@ -9,6 +9,21 @@ This files executes the matching procedure that has led to a sample of study of 
 
 
 
+# Households rosters
+This files merges various .csv files to create three roster datasets with household as well as individual level information:
+
+* <a href="do_roster_datasets.R">do_roster_datasets.R</a>
+
+
+&#8594; &#8594; &#8594; &#8594; &#8594; Output of this file is the following .csv file: 
+
+* <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/matched_hh_2009.csv"><font color="01DF01">matched_hh_2009.csv</font></a>
+* <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/matched_hh_2010.csv">matched_hh_2010.csv</a>
+* <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/matched_hh_2011.csv">matched_hh_2011.csv</a>
+
+
+
+
 # Visual Representations
 All figures (Figure 3.1, 3.2, A.1-A.6) and Table 4.1 are generated using the following r files:
 
