@@ -10,7 +10,7 @@ This files executes the matching procedure that has led to a sample of study of 
 
 
 # Households rosters
-This files merges various .csv files to create three roster datasets with household as well as individual level information:
+This file merges various .csv files in order to create three roster datasets with household as well as individual level information:
 
 * <a href="do_roster_datasets.R">do_roster_datasets.R</a>
 
@@ -20,6 +20,26 @@ This files merges various .csv files to create three roster datasets with househ
 * <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/matched_hh_2009.csv"><font color="01DF01">matched_hh_2009.csv</font></a>
 * <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/matched_hh_2010.csv">matched_hh_2010.csv</a>
 * <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/matched_hh_2011.csv">matched_hh_2011.csv</a>
+
+
+This file makes use of .csv files which are generated using the followinig .r files: 
+
+
+* Household-level info.:
+  * <a href="do_hh2009.R">do_hh2009.R</a> &#8594; &#8594; <a href="hh_2009.csv">hh_2009.csv</a>
+  * <a href="do_hh2010.R">do_hh2009.R</a> &#8594; &#8594; <a href="hh_2010.csv">hh_2009.csv</a>
+  * <a href="do_hh2011.R">do_hh2009.R</a> &#8594; &#8594; <a href="hh_2011.csv">hh_2009.csv</a>
+
+* Individual-level demographic info. 
+  * <a href="do_ind_characteristics2009.R">do_ind_characteristics2009.R</a> &#8594; &#8594; <a href="hh_charact2009.csv">hh_charact2009.csv</a>
+  * <a href="do_ind_characteristics2010.R">do_ind_characteristics2010.R</a> &#8594; &#8594; <a href="hh_charact2010.csv">hh_charact2010.csv</a>
+  * <a href="do_ind_characteristics2011.R">do_ind_characteristics2011.R</a> &#8594; &#8594; <a href="hh_charact2011.csv">hh_charact2011.csv</a>
+ 
+* Individual-level education info. 
+  * * <a href="do_ind_educ2009.R">do_ind_educ2009.R</a> &#8594; &#8594; <a href="hh_educ2009.csv">hh_educ2009.csv</a>
+  * * <a href="do_ind_educ2010.R">do_ind_educ2010.R</a> &#8594; &#8594;<a href="hh_educ2010.csv">hh_educ2010.csv</a>
+  * * <a href="do_ind_educ2011.R">do_ind_educ2011.R</a> &#8594; &#8594; <a href="hh_educ2011.csv">hh_educ2011.csv</a>
+
 
 
 
