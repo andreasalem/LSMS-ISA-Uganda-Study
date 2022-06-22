@@ -2,7 +2,7 @@
 
 The following table shows all .r files which have been used in this study. The 30 files in the table below can be run in a coherent analysis following the Master File <a href="master_file.R">master_file.R</a>.
 
-| Household Roster  | Main Results | Figures and other
+| Household Roster  | Main Results | Visual Representations
 | ------------- | ------------- | ------------- |
 | <a href="do_hh2009.R">do_hh2009.R</a>   | <a href="do_items_food_2009.R">do_items_food_2009.R</a>  | <a href="Figures.R">Figures.R</a>
 | <a href="do_hh2010.R">do_hh2010.R</a>   | <a href="do_items_food_2010.R">do_items_food_2010.R</a>   | <a href="Table 4.1 - Welch t-test of Difference in Means.R">Table 4.1 - Welch t-test of Difference in Means.R</a>
