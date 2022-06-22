@@ -21,7 +21,7 @@ The following table shows all .r files which have been used in this study. The 3
 | | &#8594; <a href="Results_2011_table.R">Results_2011_table.R</a>  | 
 
 
-
+Below, a brief description of each .r file.
 
 # Sample Selection
 This files executes the matching procedure that has led to a sample of study of 2157 households: 
