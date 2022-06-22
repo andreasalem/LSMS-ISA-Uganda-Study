@@ -64,8 +64,5 @@ In order to create these roster datasets, the following files have been used:
 * Relevant sample of households:
   * <a href="final_vector_sample.csv">final_vector_sample.csv</a>
   
-```r
-print(ciao)
-```
 
 
