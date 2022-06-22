@@ -60,9 +60,9 @@ This file makes use of .csv files which are generated using the followinig .r fi
   * <a href="do_ind_characteristics2011.R">do_ind_characteristics2011.R</a> &#8594; <a href="hh_charact2011.csv">hh_charact2011.csv</a>
  
 * Individual-level education info. 
-  * * <a href="do_ind_educ2009.R">do_ind_educ2009.R</a> &#8594; <a href="hh_educ2009.csv">hh_educ2009.csv</a>
-  * * <a href="do_ind_educ2010.R">do_ind_educ2010.R</a> &#8594; <a href="hh_educ2010.csv">hh_educ2010.csv</a>
-  * * <a href="do_ind_educ2011.R">do_ind_educ2011.R</a> &#8594; <a href="hh_educ2011.csv">hh_educ2011.csv</a>
+  *  <a href="do_ind_educ2009.R">do_ind_educ2009.R</a> &#8594; <a href="hh_educ2009.csv">hh_educ2009.csv</a>
+  *  <a href="do_ind_educ2010.R">do_ind_educ2010.R</a> &#8594; <a href="hh_educ2010.csv">hh_educ2010.csv</a>
+  *  <a href="do_ind_educ2011.R">do_ind_educ2011.R</a> &#8594; <a href="hh_educ2011.csv">hh_educ2011.csv</a>
 
 
 
