@@ -1,4 +1,6 @@
+# R Code
 
+The following table shows all .r files which have been used in this study. The 30 files in the table below can be run in a coherent analysis following the Master File <a href="master_file.R">master_file.R</a>.
 
 | Household Roster  | Main Results | Figures and other
 | ------------- | ------------- | ------------- |
