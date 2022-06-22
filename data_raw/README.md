@@ -23,4 +23,4 @@ The Household Questionnaires are available here:
 
 ___
 
-The file <a href="UNPS_Geovars_1011.csv.csv">UNPS_Geovars_1011.csv</a> contains coordinates (lat-and longitude) of the sample of 2157 households in the study (with a dummy variable: urban/rural). Figure 3.1 depicts the map of Uganda and the geographical location of these households.
+The file <a href="UNPS_Geovars_1011.csv.csv">UNPS_Geovars_1011.csv</a> contains coordinates (lat-and longitude) of the sample of 2157 households in the study (with a dummy variable: urban/rural). Figure 3.1 depicts the map of Uganda and the geographical location of these study households.
