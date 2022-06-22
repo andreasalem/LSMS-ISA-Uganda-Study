@@ -5,8 +5,8 @@ The following table shows all .r files which have been used in this study. The 3
 | Household Roster  | Main Results | Visual Representations
 | ------------- | ------------- | ------------- |
 | <a href="do_hh2009.R">do_hh2009.R</a>   | <a href="do_items_food_2009.R">do_items_food_2009.R</a>  | <a href="Figures.R">Figures.R</a>
-| <a href="do_hh2010.R">do_hh2010.R</a>   | <a href="do_items_food_2010.R">do_items_food_2010.R</a>   | <a href="Table 4.1 - Welch t-test of Difference in Means.R">Table 4.1 - Welch t-test of Difference in Means.R</a>
-| <a href="do_hh2011.R">do_hh2011.R</a>   | <a href="do_items_food_2011.R">do_items_food_2011.R</a>   | <a href="Appendices.R">Appendices.R</a>
+| <a href="do_hh2010.R">do_hh2010.R</a>   | <a href="do_items_food_2010.R">do_items_food_2010.R</a>   |  <a href="Appendices.R">Appendices.R</a>
+| <a href="do_hh2011.R">do_hh2011.R</a>   | <a href="do_items_food_2011.R">do_items_food_2011.R</a>   | <a href="Table 4.1 - Welch t-test of Difference in Means.R">Table 4.1 - Welch t-test of Difference in Means.R</a>
 | <a href="do_ind_characteristics2009.R">do_ind_characteristics2009.R</a>   | <a href="do_items_non_durables_2009.R">do_items_non_durables_2009.R</a>  | <a href="Extra_panel_analysis_changes.R">Extra_panel_analysis_changes.R</a>
 | <a href="do_ind_characteristics2010.R">do_ind_characteristics2010.R</a>   | <a href="do_items_non_durables_2010.R">do_items_non_durables_2010.R</a>  |
 | <a href="do_ind_characteristics2011.R">do_ind_characteristics2011.R</a>   | <a href="do_items_non_durables_2011.R">do_items_non_durables_2011.R</a>  |
