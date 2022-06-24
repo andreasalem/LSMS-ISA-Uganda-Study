@@ -7,9 +7,7 @@
 
 [Link to another page](./another-page.html).
 
-This online appendix provides all relevant material to replicate findings of the research presented in the thesis. This online appendix provides also a detailed account of the data construction process. <br>
 
-The main body of the thesis which has been submitted can be retrieved at [this link](https://drive.switch.ch/index.php/s/qZwQSlvaiGKCEfi). The replication material is donwloadable in a .zip file on the left side of this web-page. <br>
 
 
 <br>
