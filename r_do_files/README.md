@@ -88,5 +88,5 @@ Final results are contained in the following files:
  *  <a href="Results_2010_table.R">Results_2010_table.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2010_table.csv">result_2010_table.csv</a>
  *  <a href="Results_2011_table.R">Results_2011_table.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2011_table.csv">result_2011_table.csv</a>
 
-These results are obtained by running the following .r files:
+
 
