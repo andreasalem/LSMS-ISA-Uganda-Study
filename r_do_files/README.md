@@ -80,11 +80,11 @@ All figures (Figure 3.1, 3.2, A.1-A.6) and Table 4.1 are generated using the fol
 
 Final results are contained in the following files:
 
- *  <a href="Results_2009.R">result_2009.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2009.csv">result_2009.csv</a>
- *  <a href="Results_2010.R">result_2010.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2010.csv">result_2010.csv</a>
- *  <a href="Results_2011.R">result_2011.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2011.csv">result_2011.csv</a>
+ *  <a href="Results_2009.R">Results_2009.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2009.csv">result_2009.csv</a>
+ *  <a href="Results_2010.R">Results_2010.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2010.csv">result_2010.csv</a>
+ *  <a href="Results_2011.R">Results_2011.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2011.csv">result_2011.csv</a>
 
- *  <a href="Results_2009_table.R">result_2009.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2009_table.csv">result_2009_table.csv</a>
- *  <a href="Results_2010_table.R">result_2010.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2010_table.csv">result_2010_table.csv</a>
- *  <a href="Results_2011_table.R">result_2011.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2011_table.csv">result_2011_table.csv</a>
+ *  <a href="Results_2009_table.R">Results_2009_table.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2009_table.csv">result_2009_table.csv</a>
+ *  <a href="Results_2010_table.R">Results_2010_table.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2010_table.csv">result_2010_table.csv</a>
+ *  <a href="Results_2011_table.R">Results_2011_table.R</a> &#8594; <a href="https://github.com/andreasalem/LSMS-ISA-Uganda-Study/blob/main/data_clean/result_2011_table.csv">result_2011_table.csv</a>
 
